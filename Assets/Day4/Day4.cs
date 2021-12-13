@@ -13,7 +13,6 @@ public class Day4 : MonoBehaviour
         string path = "Assets/Resources/Day4Input.txt";
 
         int[,] winningBoard;
-        int winningIndex;
 
         //I'm going to read it with a streamreader. This way I don't have to
         //copy paste everything here.
